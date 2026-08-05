@@ -1,0 +1,42 @@
+{
+  "algorithm": "Ed25519",
+  "payload": {
+    "generated_at": "2026-08-05T17:36:06.533771Z",
+    "licenses": [
+      {
+        "activated_at": "2026-07-31T13:04:20.665785Z",
+        "expires_at": null,
+        "license_id": "SG-344D6992-52F64514",
+        "machine_fingerprint": "89fd6a0f0678fceb92e8d6b95355263b873b23a2c9be59c7466eac9199684ba0",
+        "status": "active",
+        "type": "permanent"
+      },
+      {
+        "activated_at": "2026-06-14T19:54:39.769375Z",
+        "expires_at": null,
+        "license_id": "SG-3CC1B527-5A0E49F6",
+        "machine_fingerprint": "89fd6a0f0678fceb92e8d6b95355263b873b23a2c9be59c7466eac9199684ba0",
+        "status": "active",
+        "type": "permanent"
+      },
+      {
+        "activated_at": "2026-06-18T08:25:08.489989Z",
+        "expires_at": "2026-09-18T08:25:08.489989Z",
+        "license_id": "SG-BC85313D-89184CCF",
+        "machine_fingerprint": "6b4ee1ed428fc284da4731badd400b2062ac70acfedb53e274495f8a76038f26",
+        "status": "active",
+        "type": "quarterly"
+      },
+      {
+        "activated_at": "2026-06-18T15:37:48.165664Z",
+        "expires_at": "2026-09-18T15:37:48.165664Z",
+        "license_id": "SG-EDDBE474-1304442B",
+        "machine_fingerprint": "eaf8c1edb6ae57b3b2780567b701e7157dea505b6fee146b43bb1925c59319ba",
+        "status": "active",
+        "type": "quarterly"
+      }
+    ]
+  },
+  "signature": "iQHAQgw1fo1AKD0Vj1cnZWQLCrunMKAofTNZ9ymFx4lDX/+4VmTutGt/THP1xEhYd8wbqlLsLw8vZbeG010ADQ==",
+  "version": 1
+}
