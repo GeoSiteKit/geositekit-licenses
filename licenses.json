@@ -1,8 +1,16 @@
 {
   "algorithm": "Ed25519",
   "payload": {
-    "generated_at": "2026-10-05T05:19:05.731131Z",
+    "generated_at": "2026-10-10T17:34:55.106160Z",
     "licenses": [
+      {
+        "activated_at": "2026-09-12T18:58:16.585252Z",
+        "expires_at": null,
+        "license_id": "SG-0D229D0D-C34E4F8F",
+        "machine_fingerprint": "6883aec9246894f5d7d6216aaa8a883109e252efa4b7e7b4122370d6057a6ee4",
+        "status": "active",
+        "type": "permanent"
+      },
       {
         "activated_at": "2026-07-31T13:04:20.665785Z",
         "expires_at": null,
@@ -21,17 +29,17 @@
       },
       {
         "activated_at": "2026-06-18T08:25:08.489989Z",
-        "expires_at": "2027-04-01T09:27:26.458464Z",
+        "expires_at": "2026-09-18T08:25:08.489989Z",
         "license_id": "SG-BC85313D-89184CCF",
         "machine_fingerprint": "6b4ee1ed428fc284da4731badd400b2062ac70acfedb53e274495f8a76038f26",
         "status": "active",
         "type": "quarterly"
       },
       {
-        "activated_at": "2026-10-01T09:07:51.195142Z",
+        "activated_at": "2026-08-15T10:53:52.220901Z",
         "expires_at": null,
-        "license_id": "SG-BFA59A01-545C4E23",
-        "machine_fingerprint": "fd2df969c9bfb4fee70b6e8d61b760a7e3ceae6845a62ed71b676bde785795d7",
+        "license_id": "SG-C80B9642-10814093",
+        "machine_fingerprint": "6883aec9246894f5d7d6216aaa8a883109e252efa4b7e7b4122370d6057a6ee4",
         "status": "active",
         "type": "permanent"
       },
@@ -39,12 +47,12 @@
         "activated_at": "2026-06-18T15:37:48.165664Z",
         "expires_at": "2026-09-18T15:37:48.165664Z",
         "license_id": "SG-EDDBE474-1304442B",
-        "machine_fingerprint": "fd2df969c9bfb4fee70b6e8d61b760a7e3ceae6845a62ed71b676bde785795d7",
+        "machine_fingerprint": "eaf8c1edb6ae57b3b2780567b701e7157dea505b6fee146b43bb1925c59319ba",
         "status": "active",
         "type": "quarterly"
       }
     ]
   },
-  "signature": "Wf8i0e79MHFvuDnAcNGlOSOTgZi6Ru/T09G5r6U/3oeSxB1n8IoSV3TcMw3k8++WNnCVnHhilaqWRmKQKsXdBg==",
+  "signature": "xwE/lRWM/LdH1NUVvnmy2/8mSpuJ+S8yZoKDy8U63gDdMFh/dJKDExF8K9NeKJe85fCHTxAK4kpCgVjJ4MK6Dg==",
   "version": 1
 }
